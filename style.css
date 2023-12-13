@@ -4,16 +4,37 @@
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
+
 body {
-    color: black;
+    color: #ffdab9;
     text-align: center;
-    background-color: white;
+    background-color: #ffdab9;
 }
 
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    
+    color:#ffdab9;
     text-align: center;
-    background-color: black;
+    background-color: #ffdab9;
+}
+
+h1 {
+    text-align:center;
+    color:#4a3b2b;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Comfortaa, 'Comfortaa';
+}
+
+p {
+  text-align:center;
+  color:#4a3b2b;
+  font-size:30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:500px;
 }
